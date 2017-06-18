@@ -28,4 +28,8 @@ shinyUI(navbarPage(inverse=TRUE,"Coursera Data Science Capstone",
                               Science Capstone Course. The data consists of text files from blogs, 
                               news sources and twitter.  The data is collected from publicly 
                               available sources by a web crawler. The crawler checks for language, 
-                              so as to mainly get texts consisting of the desired language (in this                               case Enlish). The application uses 2-gram relationships derived from                               a sample of the forementioned texts to predict the next word. I                                    enjoyed all the JHU Data Science classes and would recommend them to                               anyone interested in the subject. I hope you like the app!"))))))
+                              so as to mainly get texts consisting of the desired language (in this                               case Enlish). The application uses 2-gram relationships derived from                               a sample of the forementioned texts to predict the next word. I                                    enjoyed all the JHU Data Science classes and would recommend them to                               anyone interested in the subject. I hope you like the app!")))))
+        
+)
+
+
